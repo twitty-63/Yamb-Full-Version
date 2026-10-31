@@ -236,4 +236,4 @@ This repository serves as the official landing page for Yamb. The software is di
 **Get the most recent version of Yamb today!**
 
 ---
-**Last updated:** 2026-10-31 13:24:43 UTC
+**Last updated:** 2026-10-31 18:18:12 UTC
